@@ -1,0 +1,15 @@
+This project is created by Xinyuan Zhang. 
+
+This is a C++ implemenation for the large scale optimization problems of CEC's 2013 benchmark.
+
+This program is implmented on a computer cluster with Ubuntu 12.04 LTS 64-bit.
+
+How to run:
+****************************************
+
+1. Run "make" to complie the whole project and build the target file;
+
+2. Use "run.sh" to run the target file;
+
+3. Gather the resulting data through the text files within the "GP_2013" folder.
+
